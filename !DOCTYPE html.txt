@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Simple HTML and CSS Code Example</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      color: #000000;
+      background-color: #ffffff;
+    }
+
+    .container {
+      width: 500px;
+      margin: 0 auto;
+    }
+
+    .header {
+      background-color: #000000;
+      color: #ffffff;
+      padding: 20px;
+    }
+
+    .content {
+      padding: 20px;
+    }
+
+    .footer {
+      background-color: #000000;
+      color: #ffffff;
+      padding: 20px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>This is my simple HTML and CSS code example</h1>
+    </header>
+    <content>
+      <p>This is a paragraph of text. It is justified, which means that the text is aligned to both the left and right margins.</p>
+    </content>
+    <footer>
+      <p>Copyright &copy; 2023</p>
+    </footer>
+  </div>
+</body>
+</html>
